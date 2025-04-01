@@ -1,4 +1,4 @@
-![header] (https://capsule-render.vercel.app/api?typewaving&color=timeAuto&height=300&sectionheader&text=sunhye();&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=sunhye();&fontSize=90)
 
 # Tech Stack
 ## :computer: Environment
