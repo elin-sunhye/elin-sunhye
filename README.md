@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
 
 ## :rocket: Backend Libraries & Tools
-<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Jwt-000000?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot_Mail-000000?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Portone-C6B2D?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/CoolSMS-ff9436?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Jwt-000000?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot_SMTP-000000?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Portone-C6B2D?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/CoolSMS-ff9436?style=for-the-badge&logo=&logoColor=white">
 
 ## :art: Frontend Technologies
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
